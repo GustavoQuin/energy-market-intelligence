@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.xlsx
+*.xls
+*.csv
+*.log
+*.tmp
+.vscode/
