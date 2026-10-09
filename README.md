@@ -1,9 +1,13 @@
-<img width="1255" height="705" alt="Page 1 - Executive Overview" src="https://github.com/user-attachments/assets/77e5e055-38f0-49b8-8261-be7832eb517b" />
-<img width="1253" height="715" alt="Page 5 - Data Platform Architecture" src="https://github.com/user-attachments/assets/5b8c5bce-2607-4a15-a10e-175a104493e0" />
-<img width="1257" height="701" alt="Page 4 - Prices and Production II" src="https://github.com/user-attachments/assets/bb91fb8b-a21d-4b5c-89e5-d508134fbc30" />
-<img width="1257" height="705" alt="Page 3 - Prices and Production I" src="https://github.com/user-attachments/assets/e36da70c-2d7d-41eb-a6e0-f6bd11b96e09" />
-<img width="1725" height="721" alt="Page 2 - Energy Commodity KPIs" src="https://github.com/user-attachments/assets/ac2b7da7-fdb6-4e79-8c9e-254913f1ec18" />
 <img width="1247" height="711" alt="Portada Energy Dashboard" src="https://github.com/user-attachments/assets/cd39b53f-ce39-4cb0-8459-401b35a0ad2c" />
+<img width="1255" height="705" alt="Page 1 - Executive Overview" src="https://github.com/user-attachments/assets/77e5e055-38f0-49b8-8261-be7832eb517b" />
+<img width="1725" height="721" alt="Page 2 - Energy Commodity KPIs" src="https://github.com/user-attachments/assets/ac2b7da7-fdb6-4e79-8c9e-254913f1ec18" />
+<img width="1257" height="705" alt="Page 3 - Prices and Production I" src="https://github.com/user-attachments/assets/e36da70c-2d7d-41eb-a6e0-f6bd11b96e09" />
+<img width="1257" height="701" alt="Page 4 - Prices and Production II" src="https://github.com/user-attachments/assets/bb91fb8b-a21d-4b5c-89e5-d508134fbc30" />
+<img width="1253" height="715" alt="Page 5 - Data Platform Architecture" src="https://github.com/user-attachments/assets/5b8c5bce-2607-4a15-a10e-175a104493e0" />
+
+
+
+
 # Energy Market Intelligence
 
 Automated data pipeline and Power BI dashboard for energy market analysis.
